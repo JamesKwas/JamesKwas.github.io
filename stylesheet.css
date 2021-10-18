@@ -106,7 +106,6 @@ a {
     width: 100%;
     height: auto;
     max-width: 1440px;
-    alt: "Standish Lookout";
 }
 
 /* Marble canyon image format */
@@ -115,7 +114,6 @@ a {
     width: 100%;
     height: auto;
     max-width: 2010px;
-    alt: "Marble Canyon";
 }
 
 /* Canmore view Image format */
@@ -124,7 +122,6 @@ a {
     width: 100%;
     height: auto;
     max-width: 1280px;
-    alt: "Canmore";
 }
 
 /* Image from glacier format */ 
@@ -133,7 +130,6 @@ a {
     width: 100%;
     height: auto;
     max-width: 1080px;
-    alt: "Glacier";
 }
 
 /* Canoe trip Image format */
@@ -142,7 +138,6 @@ a {
     width: 100%;
     height: auto;
     max-width: 1280px;
-    alt: "Canoe Trip";
 }
 
 /* slackling image foramt*/
@@ -151,5 +146,4 @@ a {
     width: 100%;
     height: auto;
     max-width: 1280px;
-    alt: "Slacklife";
 }
