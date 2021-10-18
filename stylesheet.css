@@ -97,3 +97,59 @@ a {
     text-decoration: none;
     font-weight: bold;
 }
+
+/*image formats */
+
+/* lookout image format */
+#lookout {
+
+    width: 100%;
+    height: auto;
+    max-width: 1440px;
+    alt: "Standish Lookout";
+}
+
+/* Marble canyon image format */
+#Bridge {
+
+    width: 100%;
+    height: auto;
+    max-width: 2010px;
+    alt: "Marble Canyon";
+}
+
+/* Canmore view Image format */
+#canmore {
+
+    width: 100%;
+    height: auto;
+    max-width: 1280px;
+    alt: "Canmore";
+}
+
+/* Image from glacier format */ 
+#glacier {
+
+    width: 100%;
+    height: auto;
+    max-width: 1080px;
+    alt: "Glacier";
+}
+
+/* Canoe trip Image format */
+#canoe {
+
+    width: 100%;
+    height: auto;
+    max-width: 1280px;
+    alt: "Canoe Trip";
+}
+
+/* slackling image foramt*/
+#Slacklife {
+
+    width: 100%;
+    height: auto;
+    max-width: 1280px;
+    alt: "Slacklife";
+}
